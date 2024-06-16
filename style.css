@@ -1,0 +1,20 @@
+.container {
+    max-width: 900px;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.div-card {
+    text-align: center;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    box-shadow: 10px;
+    width: 230px;
+    height: 280px;
+}
